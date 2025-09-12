@@ -50,7 +50,7 @@ Hệ thống gồm:
 
 ---
 
-## 5. Liên hệ bản thân
+## 5. Liên hệ với tôi
 📧 Email: vuquan0804@gmail.com
 📞 Phone: 0364973088
 🌐 Facebook: [Your Profile](https://www.facebook.com/vuquan.844/)
