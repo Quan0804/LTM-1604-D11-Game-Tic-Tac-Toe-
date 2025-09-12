@@ -47,3 +47,10 @@ Hệ thống gồm:
 1. **Clone project về máy**
    ```bash
    git clone https://github.com/your-repo/tic-tac-toe-java.git
+
+---
+
+## 5. Liên hệ bản thân
+📧 Email: vuquan0804@gmail.com
+📞 Phone: 0364973088
+🌐 Facebook: [Your Profile](https://www.facebook.com/vuquan.844/)
