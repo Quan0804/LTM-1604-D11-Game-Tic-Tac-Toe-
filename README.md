@@ -94,20 +94,27 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
   <figcaption><b>Server mở kết nối</b></figcaption>
 </figure>
 
+<br>
+
 <figure align="center">
   <img src="docs/anh2.png" width="500" height="500"/>
   <figcaption><b>Hai người chơi X và O khi đã kết nối đến server</b></figcaption>
 </figure>
+
+<br>
 
 <figure align="center">
   <img src="docs/anh3.png" width="500" height="500"/>
   <figcaption><b>Khi 1 người chơi thắng</b></figcaption>
 </figure>
 
+<br>
+
 <figure align="center">
   <img src="docs/anh4.png" width="500" height="500"/>
   <figcaption><b>Các dữ liệu được trả về database</b></figcaption>
 </figure>
+
 
 
 ---
