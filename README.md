@@ -38,9 +38,7 @@ Dự án này được phát triển bằng **Java** và sử dụng **TCP Socke
 
 Trò chơi không chỉ giúp giải trí mà còn là bài tập thực hành quan trọng về **Lập trình mạng (Socket Programming)** và **Lập trình giao diện người dùng trong Java (Java Swing)**.
 
----
-
-## 1.2 Luật chơi Tic Tac Toe 3x3
+### 1.2 Luật chơi Tic Tac Toe 3x3
 
 ### Mục tiêu trò chơi
 Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** theo hàng ngang, hàng dọc hoặc đường chéo trên bàn cờ 3x3. Người đầu tiên hoàn thành mục tiêu sẽ thắng ván đó.
@@ -73,7 +71,7 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
    - Sau khi kết thúc ván, kết quả được thông báo cho cả hai client.  
    - Trò chơi có thể chơi lại nhiều ván, dữ liệu kết quả được ghi nhận để phục vụ thống kê.  
 
-### 1.2 Minh họa ví dụ
+### 1.3 Minh họa ví dụ
 
                                                 | X | O | X |
                                                 |   | O | X |
