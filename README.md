@@ -108,13 +108,6 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
   <p><b>Khi 1 người chơi thắng</b></p>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="docs/anh4.png" width="1000" height="1000"/>
-  <p><b>Các dữ liệu được trả về database</b></p>
-</div>
-
 
 
 ---
