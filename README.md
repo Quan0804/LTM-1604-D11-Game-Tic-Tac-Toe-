@@ -40,7 +40,7 @@ Trò chơi không chỉ giúp giải trí mà còn là bài tập thực hành q
 
 ---
 
-## Luật chơi Tic Tac Toe 3x3
+## 1.2 Luật chơi Tic Tac Toe 3x3
 
 ### Mục tiêu trò chơi
 Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** theo hàng ngang, hàng dọc hoặc đường chéo trên bàn cờ 3x3. Người đầu tiên hoàn thành mục tiêu sẽ thắng ván đó.
@@ -73,16 +73,36 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
    - Sau khi kết thúc ván, kết quả được thông báo cho cả hai client.  
    - Trò chơi có thể chơi lại nhiều ván, dữ liệu kết quả được ghi nhận để phục vụ thống kê.  
 
+### 1.2 Minh họa ví dụ
 
-## 2. Ngôn ngữ lập trình sử dụng
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+                                                | X | O | X |
+                                                |   | O | X |
+                                                | O | X |   |
+
+
+## 2. Các công nghệ được sử dụng sử dụng
+<div align="center">
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![TCP Socket](https://img.shields.io/badge/TCP%20Socket-blue?style=for-the-badge&logo=windowssocket&logoColor=white)](#) [![Java Swing](https://img.shields.io/badge/Java%20Swing-orange?style=for-the-badge&logo=java&logoColor=white)](#) [![GUI](https://img.shields.io/badge/GUI-lightgrey?style=for-the-badge)](#) [![Maven](https://img.shields.io/badge/Maven-007396?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+</div>
 
 ---
 
 ## 3. Một số hình ảnh hệ thống
-| Giao diện Client | Giao diện Server |
-|------------------|------------------|
-| ![Client](docs/client_demo.png) | ![Server](docs/server_demo.png) |
+
+<div align="center">
+
+
+<img src="docs/client_demo.png" alt="Client" width="300"/>
+
+<img src="docs/server_demo.png" alt="Server" width="300"/>
+
+<img src="docs/server_demo.png" alt="Server" width="300"/>
+
+<img src="docs/server_demo.png" alt="Server" width="300"/>
+
+</div>
 
 ---
 
