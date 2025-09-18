@@ -91,14 +91,14 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
 
 <div align="center">
 
-
-<img src="docs/client_demo.png" alt="Client" width="300"/>
-
-<img src="docs/server_demo.png" alt="Server" width="300"/>
-
-<img src="docs/server_demo.png" alt="Server" width="300"/>
-
-<img src="docs/server_demo.png" alt="Server" width="300"/>
+**Server mở kết nối**
+<img src="docs/client_demo.png" width="300"/>
+**Hai người chơi X và O khi đã kết nối đến server**
+<img src="docs/server_demo.png" width="300"/>
+ **Khi 1 người chơi thắng**
+<img src="docs/server_demo.png" width="300"/>
+**Các dữ liệu được trả về database**
+<img src="docs/server_demo.png" width="300"/>
 
 </div>
 
