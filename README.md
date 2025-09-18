@@ -78,7 +78,7 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
                                                 | O | X |   |
 
 
-## 2. Các công nghệ được sử dụng sử dụng
+## 2. Các công nghệ được sử dụng
 <div align="center">
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![TCP Socket](https://img.shields.io/badge/TCP%20Socket-blue?style=for-the-badge&logo=windowssocket&logoColor=white)](#) [![Java Swing](https://img.shields.io/badge/Java%20Swing-orange?style=for-the-badge&logo=java&logoColor=white)](#) [![GUI](https://img.shields.io/badge/GUI-lightgrey?style=for-the-badge)](#) [![Maven](https://img.shields.io/badge/Maven-007396?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
