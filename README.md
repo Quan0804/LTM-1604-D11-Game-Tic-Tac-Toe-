@@ -89,18 +89,21 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
 
 ## 3. Một số hình ảnh hệ thống
 
-<div align="center">
-
 **Server mở kết nối**
-<img src="docs/anh1.png" width="300"/>
-**Hai người chơi X và O khi đã kết nối đến server**
-<img src="docs/anh2.png" width="300"/>
- **Khi 1 người chơi thắng**
-<img src="docs/anh3.png" width="300"/>
-**Các dữ liệu được trả về database**
-<img src="docs/anh4.png" width="300"/>
+<div align="center"><img src="docs/anh1.png" width="300"/></div>
 
-</div>
+**Hai người chơi X và O khi đã kết nối đến server**
+
+<div align="center"><img src="docs/anh2.png" width="300"/></div>
+
+ **Khi 1 người chơi thắng**
+
+<div align="center"><img src="docs/anh3.png" width="300"/></div>
+
+**Các dữ liệu được trả về database**
+
+<div align="center"><img src="docs/anh4.png" width="300"/></div>
+
 
 ---
 
