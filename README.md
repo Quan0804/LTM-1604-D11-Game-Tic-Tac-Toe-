@@ -107,10 +107,40 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
 
 ---
 
-## 4. Các bước cài đặt
-1. **Clone project về máy**
-   ```bash
-   git clone https://github.com/your-repo/tic-tac-toe-java.git
+## 4. Các bước cài đặt trên Eclipse IDE
+
+### 4.1 Yêu cầu
+- Eclipse IDE for Java Developers  
+- Java JDK 17+  
+- Git 
+- Hệ điều hành: Windows, Linux, macOS  
+
+### 4.2 Clone project
+```bash
+git clone https://github.com/Quan0804/LTM-1604-D11-Game-Tic-Tac-Toe-.git
+```
+
+### 4.3 Import vào Eclipse
+
+- File → Import → Existing Projects into Workspace
+- Chọn root directory là folder project
+- Check “Copy projects into workspace” (nếu muốn)
+- Finish
+
+### 4.4 Build project
+
+- Eclipse tự build, nếu không: Project → Build Project
+
+### 4.5 Chạy Server
+
+- Mở Server.java
+- Run As → Java Application
+
+### 4.6 Chạy Client
+
+- Mở Client.java
+- Run As → Java Application
+- Chạy ít nhất 2 client để chơi với nhau
 
 ---
 
