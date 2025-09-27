@@ -91,24 +91,17 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
 
 <div align="center">
   <img src="docs/anh1.png" width="1000" height="1000"/>
-  <p><b>Server mở kết nối</b></p>
+  <p><b>Form đăng nhập đăng ký</b></p>
 </div>
 
 <br>
 
 <div align="center">
   <img src="docs/anh2.png" width="1000" height="1000"/>
-  <p><b>Hai người chơi X và O khi đã kết nối đến server</b></p>
+  <p><b>Bảng cờ thi đấu</b></p>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="docs/anh3.png" width="1000" height="1000"/>
-  <p><b>Khi 1 người chơi thắng</b></p>
-</div>
-
-
 
 ---
 
