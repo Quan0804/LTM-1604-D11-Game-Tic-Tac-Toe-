@@ -90,7 +90,7 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
 ## 3. Một số hình ảnh hệ thống
 
 <div align="center">
-  <img src="docs/anh1.png" width="1000" height="1000"/>
+  <img src="docs/anh1.png" width="500" height="500"/>
   <p><b>Form đăng nhập đăng ký</b></p>
 </div>
 
