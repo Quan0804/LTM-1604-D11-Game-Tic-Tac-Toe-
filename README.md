@@ -97,7 +97,7 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
 <br>
 
 <div align="center">
-  <img src="docs/anh2.png" width="400" height="400"/>
+  <img src="docs/anh2.png" width="600" height="600"/>
   <p><b>Sảnh chờ</b></p>
 </div>
 
