@@ -98,6 +98,13 @@ Người chơi X hoặc O cố gắng tạo ra **3 ký hiệu liên tiếp** the
 
 <div align="center">
   <img src="docs/anh2.png" width="800" height="800"/>
+  <p><b>Sảnh chờ</b></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="docs/anh3.png" width="800" height="800"/>
   <p><b>Bảng cờ thi đấu</b></p>
 </div>
 
